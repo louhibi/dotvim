@@ -2,7 +2,7 @@ This project is a VIM config Python
 source : Linux Magazine Hors Serie 59, mars 2012
 
 installation :
-    git clone git://github.com/wjeanneau/dotvim.git ~/.vim
+    git clone git://github.com/louhibi/dotvim.git ~/.vim
 
 create symlink
     ln -s ~/.vim/vimrc ~/.vimrc
